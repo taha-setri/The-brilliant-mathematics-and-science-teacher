@@ -1,0 +1,6 @@
+{
+  "name": "أستاذ الرياضيات والعلوم الذكي",
+  "description": "منصة تعليمية ذكية وخبير تربوي لحل وشرح مسائل الرياضيات والعلوم خطوة بخطوة مع بطاقات استذكار رقمية واختبارات تفاعلية وتوجيه مخصص وفق المعايير التربوية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
